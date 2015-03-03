@@ -33,6 +33,22 @@ public class Loops {
 			System.out.println(c);
 		}
 		
+		do {
+			System.out.println("i = " + i--);
+		} while (i > 0);
+		
+		
+		while (true) {
+		
+			
+			if (i++ >= 10) {
+				break;
+			}
+			System.out.println("now i = " + i);
+		}
+		System.out.println("hi there!");
+			
+		
 	}
 
 }
