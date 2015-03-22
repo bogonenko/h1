@@ -10,7 +10,7 @@ public class Synthesizer extends Keyboard {
 	}
 
 	private void checkElectricalConnection() {
-		System.out.println("Checking th electrical connection");
+		System.out.println("Checking the electrical connection");
 		
 	}
 
