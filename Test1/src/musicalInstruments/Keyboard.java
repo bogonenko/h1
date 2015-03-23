@@ -18,7 +18,7 @@ public abstract class Keyboard extends MusicalInstrument {
 	}
 
 	private void checkKeys() {
-		System.out.println("Checing instrument's keys");
+		System.out.println("Checking instrument's keys");
 
 	}
 
